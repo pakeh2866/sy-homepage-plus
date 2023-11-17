@@ -1,0 +1,38 @@
+{
+  "name": "homepage",
+  "author": "muhanstudio",
+  "url": "https://github.com/muhanstudio/siyuan-homepage",
+  "version": "0.2.0",
+  "minAppVersion": "2.10.10",
+  "backends": [
+    "windows",
+    "linux",
+    "darwin"
+  ],
+  "frontends": [
+    "desktop",
+    "desktop-window"
+  ],
+  "displayName": {
+    "default": "homepage",
+    "zh_CN": "首页"
+  },
+  "description": {
+    "default": "homepage",
+    "zh_CN": "首页"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": [
+    ]
+  },
+  "keywords": [
+    "homepage", "首页"
+  ]
+}
