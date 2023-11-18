@@ -5,13 +5,10 @@
   "version": "0.2.0",
   "minAppVersion": "2.10.10",
   "backends": [
-    "windows",
-    "linux",
-    "darwin"
+    "all"
   ],
   "frontends": [
-    "desktop",
-    "desktop-window"
+    "all"
   ],
   "displayName": {
     "default": "homepage",
