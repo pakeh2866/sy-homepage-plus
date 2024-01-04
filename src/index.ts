@@ -260,7 +260,7 @@ export default class Homepage extends Plugin {
             hotkey: "⇧⌘H",
             callback: () => {
                 console.log("打开首页");
-                this.openTabById;
+                this.openTabById();
             },
         });
 
