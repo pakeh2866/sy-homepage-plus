@@ -1,8 +1,8 @@
 {
-  "name": "plugin-sample-vite",
-  "author": "frostime",
-  "url": "https://github.com/frostime/plugin-sample-vite",
-  "version": "0.3.6",
+  "name": "sy-homepage-plus",
+  "author": "pakeh2866",
+  "url": "https://github.com/pakeh2866/sy-homepage-plus",
+  "version": "0.1.1",
   "minAppVersion": "3.0.12",
   "backends": [
     "windows",
@@ -26,7 +26,7 @@
   },
   "description": {
     "en_US": "SiYuan plugin sample with vite",
-    "zh_CN": "使用 vite 开发的思源插件样例"
+    "zh_CN": "打开软件时打开指定页面"
   },
   "readme": {
     "en_US": "README.md",
@@ -38,8 +38,7 @@
     ]
   },
   "keywords": [
-    "plugin",
-    "sample",
-    "插件样例"
+    "首页",
+    "homepage"
   ]
 }
