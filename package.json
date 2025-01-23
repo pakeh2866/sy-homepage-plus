@@ -2,7 +2,7 @@
   "name": "sy-homepage-plus",
   "version": "0.1.1",
   "type": "module",
-  "description": "This is a sample plugin based on vite and svelte for Siyuan (https://b3log.org/siyuan)",
+  "description": "启动思源时打开指定页面，作为首页",
   "repository": "https://github.com/pakeh2866/sy-homepage-plus",
   "homepage": "",
   "author": "pakeh2866",

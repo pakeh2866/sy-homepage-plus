@@ -21,12 +21,12 @@
     "desktop-window"
   ],
   "displayName": {
-    "en_US": "Plugin sample with vite",
-    "zh_CN": "插件样例 vite 版"
+    "en_US": "homepage-plus",
+    "zh_CN": "首页+"
   },
   "description": {
-    "en_US": "SiYuan plugin sample with vite",
-    "zh_CN": "打开软件时打开指定页面"
+    "en_US": "Start SiYuan for Homepage",
+    "zh_CN": "启动思源时打开指定页面"
   },
   "readme": {
     "en_US": "README.md",
